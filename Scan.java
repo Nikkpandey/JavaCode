@@ -11,7 +11,7 @@ public class Scan {
 			float sal=sc.nextFloat();
 			
 			System.out.println("Id= "+id);
-			System.out.println("Naae= "+name);
+			System.out.println("Name= "+name);
 			System.out.println("Salary= "+sal);
 		}
 
